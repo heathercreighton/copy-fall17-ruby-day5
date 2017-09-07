@@ -1,4 +1,4 @@
-#Create a class for Accounts
+#Create a class for Accounts to create individual
 
 class Account
 	attr_accessor :name, :balance
